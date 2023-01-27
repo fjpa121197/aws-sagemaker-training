@@ -1,3 +1,4 @@
 data-samples
 .history
 *.csv
+__pycache__
