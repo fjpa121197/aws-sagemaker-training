@@ -8,18 +8,20 @@ Majority of notebooks will be a copied version from [Sagemaker example notebooks
 
 ## Intro-to-ml
 
-Examples show casing simple and easy examples where ML is applied, alongside how to train, test and deploy using AWS Sagemaker SDK.
+Examples showcasing simple and easy examples where ML is applied, alongside how to train, test and deploy using AWS Sagemaker SDK.
 
+## Amazon SageMaker Pipelines
 
-## Introduction to Amazon Algorithms
+Examples showcasing the use of SageMaker Pipelines for encapsulating and managing an end-to-end ML workflow, from data preprocessing to model deployment. Most of the examples are following tutorials available at sagemaker examples github, but others, are adapted to other situations, like using local pipelines to test them.
+
+## Amazon SageMaker Processing
+
+<!-- ## Introduction to Amazon Algorithms
 
 ## SageMaker Automatic Model Tuning
 
 ## SageMaker Autopilot
 
-## Amazon SageMaker Processing
-
-## Amazon SageMaker Pipelines
 
 ## Amazon SageMaker Debugger
 
@@ -27,12 +29,4 @@ Examples show casing simple and easy examples where ML is applied, alongside how
 
 ## Advanced Amazon SageMaker Functionality
 
-## Amazon SageMaker Neo Compilation Jobs
-
-
-
-
-
-I will add additional folders/parts where I might want to test features or algorithms with own datasets (public or private), or a combination of all.
-
-Let the learning begin!
+## Amazon SageMaker Neo Compilation Jobs -->
