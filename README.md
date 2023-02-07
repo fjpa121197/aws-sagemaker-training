@@ -16,14 +16,13 @@ Examples showcasing the use of SageMaker Pipelines for encapsulating and managin
 
 ## Amazon SageMaker Processing
 
-Examples showcasing the use of SageMaker processing jobs for data transformation/preparation, from using ready made containers provided by AWS to using custom made (user provided) images. It also touches on using distributed processing libraries such as Spark and Dask, and how to set them up using docker images.
+Examples showcasing the use of SageMaker processing jobs for data transformation/preparation, from using ready made containers provided by AWS to using custom made (user provided) images. It also touches on using distributed processing libraries such as Spark and Dask, and how to set them up using docker images or using built-in containers by AWS.
 
 <!-- ## Introduction to Amazon Algorithms
 
 ## SageMaker Automatic Model Tuning
 
 ## SageMaker Autopilot
-
 
 ## Amazon SageMaker Debugger
 
