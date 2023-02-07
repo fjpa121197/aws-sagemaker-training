@@ -2,3 +2,4 @@ data-samples
 .history
 *.csv
 __pycache__
+sagemaker-processing/spark-ml-data-processing/part-00000
